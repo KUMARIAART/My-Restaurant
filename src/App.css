@@ -1,0 +1,94 @@
+*{
+    background-color:black;
+}
+.seconddiv{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+img{
+    height: 50vh;
+    width:30vw;
+    margin-top:11vh;
+    margin-left:1.5vw;
+}
+h1{
+    color: white;
+    margin-left: 19vw;
+}
+h6{
+    color: white;
+    margin-left:26vw; 
+    margin-top:-3vh;
+}
+input{
+    width:20vw;
+    height:8vh;
+    border-radius:10px;
+    margin-left:57vw;
+    margin-top:3vh;
+    background-color: white;
+    color: black;
+}
+.search{
+    height:8vh ;
+    width:9vw;
+    border-radius:5px;
+    margin-left:2vw;
+    margin-top:3vh;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.search:hover{
+    background-color:rgb(240, 105, 105);
+}
+.invaice:hover{
+    background-color:rgb(240, 105, 105);
+}
+button:hover{
+    background-color:rgb(240, 105, 105);
+}
+button{
+    height:7vh ;
+    width:6vw;
+    border-radius:5px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+    margin-top:-3vh;
+}
+.invaice{
+    height:8vh ;
+    width:9vw;
+    border-radius:5px;
+    margin-left:1vw;
+    margin-top:3vh;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.INVOICE{
+    height:85vh;
+    width:30vw;
+    border:0.5vw solid white;
+    margin-left:5vw;
+}
+h5{
+    color: white;
+    margin-top:-1vh;
+    align-items: center;
+}
+table,tr,th,td{
+    color: white;
+    border:0.005vw solid red;
+    width:30vw;
+}
+h4{
+    color: white;
+}
