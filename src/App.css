@@ -1,5 +1,6 @@
 *{
     background-color:black;
+
 }
 .seconddiv{
     display: grid;
@@ -8,7 +9,7 @@
 img{
     height: 50vh;
     width:30vw;
-    margin-top:11vh;
+    margin-top:1vh;
     margin-left:1.5vw;
 }
 h1{
@@ -22,15 +23,15 @@ h6{
 }
 input{
     width:20vw;
-    height:8vh;
+    height:9vh;
     border-radius:10px;
-    margin-left:57vw;
+    margin-left:15vw;
     margin-top:3vh;
     background-color: white;
     color: black;
 }
 .search{
-    height:8vh ;
+    height:9vh ;
     width:9vw;
     border-radius:5px;
     margin-left:2vw;
@@ -49,8 +50,8 @@ button:hover{
     background-color:rgb(240, 105, 105);
 }
 button{
-    height:7vh ;
-    width:6vw;
+    height:9vh ;
+    width:9vw;
     border-radius:5px;
     background-color: red;
     color: white;
@@ -64,7 +65,7 @@ p{
     margin-top:-3vh;
 }
 .invaice{
-    height:8vh ;
+    height:9vh ;
     width:9vw;
     border-radius:5px;
     margin-left:1vw;
@@ -91,4 +92,13 @@ table,tr,th,td{
 }
 h4{
     color: white;
+}
+.nav{
+    height:25vh;
+    width:40vw;
+    margin: 1vw;
+}
+.maindiv{
+    display: flex;
+    flex-direction: row;
 }
